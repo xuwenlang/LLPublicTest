@@ -2,12 +2,12 @@
 Pod::Spec.new do |spec|
 
 
-  spec.name         = "LLTest"
-  spec.version      = "0.0.1"
-  spec.summary      = "A short description of LLTest."
+  spec.name         = "LLPublicTest"
+  spec.version      = "0.0.2"
+  spec.summary      = "Description of LLTest. 短描述"
 
   spec.description  = <<-DESC
-                      A long description of LLTest.
+                      A long description of LLTest. 长描述
                    DESC
 
   spec.homepage     = "https://github.com/xuwenlang/LLTest"
